@@ -13,7 +13,7 @@ Este proyecto está en desarrollo!
 This project is being build as we speak! 
 
 
-##Roadmap
+## Roadmap
 Inicialmente se desarrollarán funcionalidades sencillas, luego le daremos vida a la personalidad de la app. 
 To begin with, we'll develop the most straight forward aspects, then we will give life to the app's personality. 
 
