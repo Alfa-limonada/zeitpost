@@ -5,7 +5,7 @@ Aplicación fullstack de notas / Fullstack notes app
 
 ## About
 La idea es aprender la estructura básica para una aplicación fullstack y documentar detalladamente el proceso de desarrollo. 
-The idea is to learn about the basic structur of a fullstack app and to document in detail the dev process. 
+The idea is to learn about the basic structure of a fullstack app and to document in detail the dev process. 
 
 
 ## Project status
