@@ -1,6 +1,6 @@
 # Zeitpost
 Aplicación fullstack de notas / Fullstack notes app 
-(Js, Express, Sequelize, node.js, mysql)
+(Vanilla.js, Express, Sequelize, node.js, mysql)
 
 
 ## About
